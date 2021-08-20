@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CoffeMachine</string>
+    <string name="TextCafe">Добро пожаловать</string>
+    <string name="HintName">Напишите имя</string>
+    <string name="logo">Логотип кафе</string>
+    <string name="Hintpassword">Напишите пароль</string>
+    <string name="buttonRes">Создать заказ</string>
+    <string name="ErrorButtonCoffee">Не все поля заполнены</string>
+    <string-array name="Type">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </string-array>
+    <string name="ErrorButtonTea">Не все поля заполнены</string>
+    <string name="hello">Привет, %s!Что будете заказывать?</string>
+    <string name="radiotea">Чай</string>
+    <string name="radiocoffee">Кофе</string>
+    <string name="adding">Что добавить в ваш %s?</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="default_name">Пользователь</string>
+    <string name="default_password">пароль</string>
+    <string name="type">Выберите тип напитка</string>
+    <string name="order">Имя:%s\nПароль:%s\nЗаказ:%s\nВид заказа:%s\n</string>
+    <string name="order_additions">Необходимые добавки</string>
+    <string-array name="TypeTea">
+        <item>Зеленый чай</item>
+        <item>Черный чай</item>
+        <item>Красный чай</item>
+    </string-array>
+</resources>
